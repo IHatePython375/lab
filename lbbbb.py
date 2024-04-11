@@ -16,5 +16,3 @@ def encode(n):
 
     return str_out
 
-
-print(encode('00009962'))
